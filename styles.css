@@ -24,7 +24,11 @@ body {
         -15px -15px 20px #fffb;
 
 }
-
+.h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 .calculator .buttons {
     position: relative;
     display: grid;
